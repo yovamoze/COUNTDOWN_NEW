@@ -68,7 +68,7 @@ public class MainActivity extends AppCompatActivity {
                   mButtonReset.setVisibility(View.VISIBLE);
             }
         }.start();
-       //now Timer is running
+       //Timer is running
         mTimerRunning = true;
         //Button gets another text to pause
         mButtonStartPause.setText("pause");
