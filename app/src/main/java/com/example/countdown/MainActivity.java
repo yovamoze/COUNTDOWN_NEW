@@ -11,7 +11,9 @@ import java.util.Locale;
 
 public class MainActivity extends AppCompatActivity {
     private static final long START_TIME_IN_MILLIS = 600000;
-
+ //HIER HABE ICH WAS GEÄNDERT::::.llgjgh
+    //khjhj
+    // Hallo, Christoph bestätigt
     private TextView mTextViewCountDown;
     private Button mButtonStartPause;
     private Button mButtonReset;
